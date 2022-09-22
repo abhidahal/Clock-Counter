@@ -1,0 +1,28 @@
+html {
+  height: 100vh;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  align-content: space-around;
+}
+
+body,
+.conter-container h1,
+.conter-container p,
+.conter-container .button {
+  transition: all 0.2s ease-in-out;
+}
+
+.conter-container {
+  margin: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.conter-container .flipdown {
+  margin: auto;
+}
