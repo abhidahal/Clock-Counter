@@ -1,6 +1,8 @@
 # Clock Counter
 
-flip clock clounter using javascript
+<h2>flip clock clounter using javascript.
+
+this is not complete.</h2>
 
 <h5>ps. if this is samrat
 
